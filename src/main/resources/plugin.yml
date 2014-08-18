@@ -1,0 +1,13 @@
+name: KickMyself
+main: io.github.schemen.kickmyself
+version: 0.1
+commands:
+    leave:
+        description: Leave server and go back to Lobby.
+        usage: /leave
+        permission: kickmyself.leave
+        permission-message: You need to have kickmyself.leave to use this command
+permissions:
+    kickmyself.leave:
+        description: Allows you to use /leave
+        default: op
