@@ -8,12 +8,11 @@ import org.bukkit.command.CommandSender;
 public final class KickMyself extends JavaPlugin {
 	@Override
 	public void onEnable() {
-		getLogger().info("onEnable has been invoked!");
+		getLogger().info("Schemen really loves Chicken Nuggets!");
 	}
 
 	@Override
 	public void onDisable() {
-		getLogger().info("onDisable has been invoked!");
 	}
 
 	// COMMANDS
