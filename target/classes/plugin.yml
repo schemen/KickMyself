@@ -1,5 +1,5 @@
 name: KickMyself
-main: io.github.schemen.kickmyself
+main: io.github.schemen.kickmyself.KickMyself
 version: 0.1
 commands:
     leave:
